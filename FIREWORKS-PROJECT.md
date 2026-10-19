@@ -14,3 +14,8 @@
 ## Launch checks
 
 Run `npm run check`, `npm run build`; verify navigation, mobile menu, all seven pages, form validation and no-send status, Vercel production, and storefront card. Do not turn on real form delivery or emergency claims without client approval and provider credentials.
+
+
+## Homepage image audit — October 19, 2026
+
+Added three distinct supporting stock photographs to the homepage, with responsive layout, descriptive alt text, explicit dimensions, lazy loading and local optimized WebP assets. Existing hero imagery remains. Source and license references are in `PHOTO-SOURCES.md`. Standing rule: every homepage should contain four to five distinct, relevant photographs; repeated hero crops and logos do not count.
